@@ -1,5 +1,5 @@
 ## 📊 Notion x Google Sheets Sync Utility
-This is a quick utlity to sync a Google Sheet with a Notion Collection. I primarily made it to automate some workflows for [The Daily Dropout]((http://dailydropout.fyi/)) but thought it might be useful for other folks who use Notion + Sheets as part of their work tools.
+This is a quick utlity to sync a Google Sheet with a Notion Collection. I primarily made it to automate some workflows for [The Daily Dropout](http://dailydropout.fyi/) but thought it might be useful for other folks who use Notion + Sheets as part of their work tools.
 
 ![Demo Notion Google Sheets Sync](/demo.png)
 
