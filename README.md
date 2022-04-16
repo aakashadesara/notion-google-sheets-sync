@@ -25,12 +25,12 @@ pip install notion
 
 6. And you should be good to go! Now just run `python sync.py` and everything should work.
 
+7. Setup a cron job to run periodically https://crontab.guru/
 
 ### Work In Progress
 _This is in order of priority_
 - [ ] Typing for Collection properties (so it's not just text)
 - [ ] better reloading (instead of deleting + re-populating Collection)
-- [ ] Chron job to automatically sync on a cadence
 - [ ] onChangeListener for Google Sheet (so users can toggle between Chron job and auto-sync)
 
 If you want to help, feel free to fork + make a pull request. Contact me on Twitter [@aakashadesara](https://twitter.com/aakashadesara) before you work on something big so we do not have multiple people working on the same changes.
