@@ -35,5 +35,9 @@ _This is in order of priority_
 
 If you want to help, feel free to fork + make a pull request. Contact me on Twitter [@aakashadesara](https://twitter.com/aakashadesara) before you work on something big so we do not have multiple people working on the same changes.
 
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=aakashadesara/notion-google-sheets-sync&type=Date)](https://star-history.com/#aakashadesara/notion-google-sheets-sync&Date)
+
 ### Thanks
 Special thanks to the folks working on the [Notion Python API](https://github.com/jamalex/notion-py)
